@@ -1,2 +1,2 @@
 # NYC-Real-Estate-Sale-Prices
-### Helo
+### Recently, I have been watching a lot of the show Million Dollar Listing - York and inspired me to do this project. In the show one of the most important parts of being a real estate broker - especially on the seller side, is determining the price. There is a lot of debate and discrepacy when it comes to this topic between the seller, the sellers broker, the buyer and the buyers broker. I wanted to dive in a see what are the features when it comes to a home, most impact the price and I wanted to develop a model that could predict these models as accurately as possible. 
